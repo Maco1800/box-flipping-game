@@ -13,7 +13,7 @@ First, I was inspired by a Fastrack smartwatch game called "Discoloration." Afte
 
 ## Getting Started
 
-To play the game, simply [click](https://www.mgcrp.in/maco/game). You can also host it on a web server if you prefer.
+To play the game, simply [click here](https://mgcrp.in/maco/game). You can also host it on a web server if you prefer.
 
 ## How to Contribute
 
