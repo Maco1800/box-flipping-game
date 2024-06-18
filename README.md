@@ -2,7 +2,7 @@
 
 ## Introduction
 
-First, I was inspired by a Fastrack smartwatch game called "Discoloration." After not being able to find it to play online,I decided to create my own version of it. While it may not have advanced features, it's functional and fun to play.
+First, I was inspired by a Fastrack smartwatch game called "Discoloration." After not being able to find it to play online,I decided to create my own version of it. While it may not have advanced features, it's functional and fun to play. Used AI to build
 
 ## How to Play
 
